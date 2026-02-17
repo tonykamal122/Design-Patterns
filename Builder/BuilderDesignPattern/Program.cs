@@ -39,5 +39,18 @@ class Program
         Step-by-step building
         Enforcing build process
         */
+        
+        /* we use it in MVC Project 
+        var builder = WebApplication.CreateBuilder(args);
+
+        // Add services to the container.
+        builder.Services.AddControllersWithViews();
+        var ps = builder.Services;
+
+        ps.AddControllersWithViews()
+          .AddMvcLocalization(); //we can cain it too but we don't make it
+
+        var app = builder.Build();
+        */
     }
 }
