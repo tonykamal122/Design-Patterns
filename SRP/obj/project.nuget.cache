@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8TrAGngmbmo=",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Desktop/Design Patterns/SRP/SRP - Soild.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/microsoft.netcore.app.ref/9.0.13/microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.13/microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.13/microsoft.netcore.app.host.osx-arm64.9.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
