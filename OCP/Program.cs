@@ -1,0 +1,12 @@
+﻿namespace OCP;
+
+// Open/Closed Principle (OCP)
+// "Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification."
+class Program
+{
+    
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
