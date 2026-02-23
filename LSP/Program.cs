@@ -51,3 +51,11 @@ class Program
         Console.WriteLine(Shape.CalcArea());
     }
 }
+/*
+Dependency Injection
+Services
+Repositories
+Strategy Pattern
+Filters
+Middlewares
+*/
