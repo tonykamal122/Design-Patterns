@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/Design Patterns/LSP/bin/Debug/net10.0/LSP
+/Users/macbook/Desktop/Design Patterns/LSP/bin/Debug/net10.0/LSP.deps.json
+/Users/macbook/Desktop/Design Patterns/LSP/bin/Debug/net10.0/LSP.runtimeconfig.json
+/Users/macbook/Desktop/Design Patterns/LSP/bin/Debug/net10.0/LSP.dll
+/Users/macbook/Desktop/Design Patterns/LSP/bin/Debug/net10.0/LSP.pdb
+/Users/macbook/Desktop/Design Patterns/LSP/obj/Debug/net10.0/LSP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Design Patterns/LSP/obj/Debug/net10.0/LSP.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Design Patterns/LSP/obj/Debug/net10.0/LSP.AssemblyInfo.cs
+/Users/macbook/Desktop/Design Patterns/LSP/obj/Debug/net10.0/LSP.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Design Patterns/LSP/obj/Debug/net10.0/LSP.sourcelink.json
+/Users/macbook/Desktop/Design Patterns/LSP/obj/Debug/net10.0/LSP.dll
+/Users/macbook/Desktop/Design Patterns/LSP/obj/Debug/net10.0/refint/LSP.dll
+/Users/macbook/Desktop/Design Patterns/LSP/obj/Debug/net10.0/LSP.pdb
+/Users/macbook/Desktop/Design Patterns/LSP/obj/Debug/net10.0/LSP.genruntimeconfig.cache
+/Users/macbook/Desktop/Design Patterns/LSP/obj/Debug/net10.0/ref/LSP.dll

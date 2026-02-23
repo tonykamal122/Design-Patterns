@@ -47,6 +47,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        IShape Shape = new Square() { Side = 5 };
+        Console.WriteLine(Shape.CalcArea());
     }
 }
